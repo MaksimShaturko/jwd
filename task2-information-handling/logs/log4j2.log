@@ -1,0 +1,98 @@
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant8 [main] Variant8 has been finished
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant14 [main] Start doing Variant14
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant14 [main] Start getting all text without CodeBlocks in String
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant14 [main] String text without CodeBlocks has been got
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant14 [main] Starting parsing String text for finding the largest palindrome and its size
+2022-03-31 14:22:45 DEBUG c.e.i.l.Variant14 [main] Largest palindrome has been found
+2022-03-31 14:22:45 INFO c.e.i.v.Main [main] The app has been successfully finished
+2022-03-31 14:27:11 INFO c.e.i.v.Main [main] The application has been started
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserText [main] Start dividing input text into String text blocks
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserText [main] String text blocks have been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserText [main] The app starts forming List<TextElement> of Text Blocks (Paragraphs and CodeBlocks)
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] Start dividing String codeBlock into CodeElements and forming List<TextElement> of CodeElements
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] List<TextElement> of CodeElements has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] Start dividing String codeBlock into CodeElements and forming List<TextElement> of CodeElements
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] List<TextElement> of CodeElements has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] Start dividing String codeBlock into CodeElements and forming List<TextElement> of CodeElements
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] List<TextElement> of CodeElements has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] Start dividing String codeBlock into CodeElements and forming List<TextElement> of CodeElements
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserCodeBlock [main] List<TextElement> of CodeElements has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] Start dividing String paragraph into Sentences and forming List<TextElement> of Sentences
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] Start dividing String sentence into Words and forming List<TextElement> of Words
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserSentence [main] List<TextElement> of Words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserParagraph [main] List<TextElement> of Sentences has been formed:
+2022-03-31 14:27:11 DEBUG c.e.i.p.ParserText [main] The List<TextElement> of Text Blocks (Paragraphs and CodeBlocks) has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.v.Main [main] Start building the output text
+2022-03-31 14:27:11 DEBUG c.e.i.v.Main [main] The output text has been built
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Start doing Variant3
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Got the first sentence and put it into resultBuilder
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Starting forming an array of all the words of the textfor parsing them for the first sentence words match
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] The Array of all text words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Starting parsing the text for match every word from the first sentence
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Parsing text for the first sentence words match has been finished
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Variant3 has been completed
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant8 [main] Start doing Variant8
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] Starting forming an array of all the words of the textfor parsing them for the first sentence words match
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant3 [main] The Array of all text words has been formed
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant8 [main] Start forming list of words starting with vowels
+2022-03-31 14:27:11 DEBUG c.e.i.l.Variant8 [main] List of words starting with vowels has been formed
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant8 [main] Words starting with vowels has been sorted by consonants
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant8 [main] Variant8 has been finished
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant14 [main] Start doing Variant14
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant14 [main] Start getting all text without CodeBlocks in String
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant14 [main] String text without CodeBlocks has been got
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant14 [main] Starting parsing String text for finding the largest palindrome and its size
+2022-03-31 14:27:12 DEBUG c.e.i.l.Variant14 [main] Largest palindrome has been found
+2022-03-31 14:27:12 INFO c.e.i.v.Main [main] The app has been successfully finished
